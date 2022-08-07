@@ -1,0 +1,32 @@
+table {
+    color: white;
+}
+
+.cabecalho-moda {
+    background-color: #bb86fc;
+}
+.produtos{
+    background-color: #424250;
+}
+
+.cabecalho-casa{
+    background-color: #00c4b4;
+}
+
+.cabecalho-moda th{
+    padding: 5px;
+}
+
+.cabecalho-casa th{
+    padding: 5px;
+}
+
+.produtos td{
+    padding: 5px;
+}
+
+/* 
+td{
+    padding: 5px;
+}
+*/
